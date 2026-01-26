@@ -1,3 +1,4 @@
+(Will update once I am free)
 # Windows sounds for Plasma 6
 # How to install and use
 
